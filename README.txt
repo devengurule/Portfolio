@@ -14,8 +14,6 @@ Hole In One GitHub:
 
 https://github.com/devengurule/HoleInOne.git
 
-Gilroys Grove GitHub & Steam:
-
-https://github.com/TKayaFox/Reap-Sow-UCCS.git
+Gilroys Grove Steam:
 
 https://store.steampowered.com/app/4073160/Gilroys_Grove/
